@@ -22,11 +22,12 @@
 
 .title {
     font-size: xxx-large;
+    height: 25px;
 }
 
 .mediaCard{
     background: url("https://www.nerdsite.com.br/wp-content/uploads/2022/03/063187.jpg") center/cover;
-    height: 525px;
+    height: 500px;
     width: 100%;
 
 }
@@ -36,4 +37,8 @@
     align-items: center;
     align-content: center;
     display: flex;
+}
+
+p.bottomText {
+    height: 20px;
 }
