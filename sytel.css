@@ -1,0 +1,39 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.card {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 2px #00000029;
+}
+
+.topCadr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.title {
+    font-size: xxx-large;
+}
+
+.mediaCard{
+    background: url("https://www.nerdsite.com.br/wp-content/uploads/2022/03/063187.jpg") center/cover;
+    height: 525px;
+    width: 100%;
+
+}
+
+.actions {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+}
